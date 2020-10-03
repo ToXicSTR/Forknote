@@ -5,7 +5,7 @@ sela-coin.com
 
 The Sela Coin is a secure coin based on the forknote and crypto note protocols
  here is a basic config demonstrating all the coin main params
-<code?> 
+<h4> 
  // Copyright (c) 2011-2016 The Cryptonote developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
@@ -135,4 +135,4 @@ const std::initializer_list<CheckpointData> CHECKPOINTS = {
 } // CryptoNote
 
 #define ALLOW_DEBUG_COMMANDS
-<?code>
+</h4>
